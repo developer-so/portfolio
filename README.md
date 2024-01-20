@@ -1,4 +1,4 @@
-# Portfolio
+# My Portfolio Project
 
-[dip.developer.so](https://dip.developer.so) is where I intend to showcase my achivements.
+## Visit [dip.developer.so](https://dip.developer.so) to see what I've been up to.
 

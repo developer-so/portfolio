@@ -28,6 +28,11 @@ img {
    margin-top: 4px;
 }
 
+
+main h2 {
+   margin-top: 1rem;
+}
+
 main p {
    margin-top: 0.5rem;
 }
@@ -36,6 +41,7 @@ main p:first-of-type {
    font-size: 20px;
 }
 
-main h2 {
-   margin-top: 1rem;
+a {
+   color: #008000;
+   text-decoration: none;
 }
