@@ -1,4 +1,3 @@
-# My Portfolio Project
+# My Portfolio
 
-## Visit [dip.developer.so](https://dip.developer.so) to see what I've been up to.
-
+## In the works... Please come back another time. :)

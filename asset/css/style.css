@@ -7,41 +7,25 @@
 html,
 body,
 main {
+
    display: flex;
    flex-direction: column;
+   align-items: center;
    justify-content: center;
-   margin: 0 3%;
-   margin-top: 8vh;
-
+   height: 100%;
 }
 
 h1 {
+   font-size: 42px;
    font-weight: 800;
-   display: inline-block;
+   margin-top: 24px;
 }
 
-main h1:first-of-type {
-   font-size: 48px;
+main>p {
+   font-size: 26px;
 }
 
-img {
-   margin-top: 4px;
-}
-
-
-main h2 {
-   margin-top: 1rem;
-}
-
-main p {
-   margin-top: 0.5rem;
-}
-
-main p:first-of-type {
+footer {
+   margin: 48px 0;
    font-size: 20px;
-}
-
-a {
-   color: #008000;
-   text-decoration: none;
 }
